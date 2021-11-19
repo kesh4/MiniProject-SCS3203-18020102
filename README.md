@@ -2,7 +2,9 @@
 
 
 In the project folder
+
 build the app - Run "gradlew build -Dquarkus.package.type=uber-jar" 
+
 Run the app - "java -jar build/petstore-runner.jar" 
 
 
